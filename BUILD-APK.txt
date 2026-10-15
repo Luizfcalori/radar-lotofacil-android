@@ -1,0 +1,1 @@
+Este arquivo dispara a compilação automática do APK pelo GitHub Actions. Consulte a aba Actions para acompanhar a execução e baixar o artefato radar-lotofacil-apk.
